@@ -7,4 +7,5 @@ public:
 	float Add(int x, int y);
 	float Multi(int x, int y);
 	float Div(int x, int y);
+	float oMemory() { return Memory; };
 };
