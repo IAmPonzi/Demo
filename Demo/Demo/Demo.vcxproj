@@ -12,6 +12,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="pBase.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pBase.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{8BF06FD0-A6A0-49C3-B274-7FA91D4DE47B}</ProjectGuid>
